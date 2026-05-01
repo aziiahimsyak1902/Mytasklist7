@@ -1,7 +1,3 @@
-// MyTaskList App — Integrasi P01–P06
-// Dibuat dengan: npx create-expo-app MyTaskListApp
-// Jalankan: npx expo start → scan QR di Expo Go
-
 import React, { useState, useMemo } from 'react';
 import {
   View,
